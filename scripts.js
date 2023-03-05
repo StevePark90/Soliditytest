@@ -36,7 +36,7 @@ const CHAIN_ID_REQUIRED = 5; //Mumbai
  */
 const CONTRACT_ON_CHAINS = {
     1: '0x76460E73eadE1DDe315E07a5eCa092448c193a2F',
-    5: '0x3aC587078b344a3d27e56632dFf236F1Aff04D56';
+    5: '0xFc3f0015f2b3aF38acd135C483b582de58594368';
 
 /**
  * All blockchain explorers
